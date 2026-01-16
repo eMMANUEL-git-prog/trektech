@@ -20,7 +20,7 @@ export function Navigation() {
             href="/"
             className="flex items-center gap-2 font-bold text-lg text-foreground hover:text-primary transition-colors"
           >
-            <img src="/logo.webp" alt="" className="h-80" />
+            <img src="/logo.webp" alt="" className="h-12" />
           </Link>
 
           {/* Desktop Navigation */}
